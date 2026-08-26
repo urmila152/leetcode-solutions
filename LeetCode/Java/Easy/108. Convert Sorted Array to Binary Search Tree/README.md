@@ -8,7 +8,7 @@
 Array, Divide and Conquer, Tree, Binary Search Tree, Binary Tree
 
 ### 🚀 Performance
-- **Runtime:** Successfully Evaluated
+- **Runtime:** N/A
 - **Memory:** N/A
 
 ---
